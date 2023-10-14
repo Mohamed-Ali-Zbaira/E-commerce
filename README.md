@@ -54,4 +54,4 @@ Le projet Laravel E-commerce vise à offrir une expérience utilisateur fluide e
 - ### La page de Liste des Utilisateurs
 ![La page de Liste des Utilisateurs](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697287033/Project%20Laravel/Admin/xcgvpe4pcvxcxw4ulyor.png)
 
-Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à [Mohamedalizbaira@email.com].
+Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à [Mohamedalizbaira@gmail.com].
