@@ -31,6 +31,7 @@ Les administrateurs ont la possibilité de gérer les profils, les produits, les
 - Bootstrap
 
 ## Captures d'écran
+<h2>Authentification</h2>
 ![Image](https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697286730/Project%20Laravel/Login%20et%20Resgistre/cxzbv2udvwtgje55fd0d.png)
 
 
